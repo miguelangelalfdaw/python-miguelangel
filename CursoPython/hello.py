@@ -1,1 +1,0 @@
-print("Entorno de Python e IA listo para despegar 🚀")
