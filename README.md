@@ -1,7 +1,7 @@
 # ⚡ Gestor de Energía con Temporizador (Windows)
 
-"Esto esta hecho para programar el apagado del ordenador desde la cama con el ratón cuando quiera, basicamente. Es puro IA slop pero me va que flipas, no me tengo que levantar. No cerreis la app
-cuando le deis a iniciar, dejadla en segundo plano minimizada, no consume nada. Y ahora la morralla:
+"Esto está hecho para programar el apagado del ordenador desde la cama con el ratón cuando quieras, básicamente. Es puro IA slop pero me va que flipas, no me tengo que levantar. No cerréis la app
+cuando le déis a iniciar, dejadla en segundo plano minimizada, no consume nada. Y ahora la morralla:
 
 Una pequeña aplicación de escritorio ligera desarrollada en Python con **Tkinter** para programar el apagado, suspensión o hibernación de Windows de forma rápida e intuitiva.
 
